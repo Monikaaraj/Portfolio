@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Monika C R — Developer Portfolio Website
 
 A modern, high-performance, responsive personal portfolio website built with **React 19**, **TypeScript**, **Vite**, and **Tailwind CSS**. Designed for **Monika C R** — Computer Science & Engineering undergraduate specializing in Artificial Intelligence & Machine Learning at JSS Academy of Technical Education, Bengaluru (VTU).
@@ -165,3 +166,6 @@ portfolio/
 ---
 
 © Monika C R — Built with React & Tailwind CSS.
+=======
+# Portfolio
+>>>>>>> 99f2ec885352702c68518107089e8d3bbb77d6a6
